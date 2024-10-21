@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/cyclikal94/cyclikal94/refs/heads/main/infinite-spinner.svg)
+
 <!--
 **cyclikal94/cyclikal94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
