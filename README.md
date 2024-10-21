@@ -1,4 +1,4 @@
-<div align="center"><a href="https://github.com/cyclikal94"><img src="https://raw.githubusercontent.com/cyclikal94/cyclikal94/refs/heads/main/infinite-spinner.svg" width="200" /><h1>cyclikal</h1></a></div>
+<div align="center"><a href="https://github.com/cyclikal94"><img src="https://raw.githubusercontent.com/cyclikal94/cyclikal94/refs/heads/main/infinite-spinner.svg" width="200" /></a><h1>cyclikal</h1></div>
 
 <!--
 **cyclikal94/cyclikal94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
