@@ -9,9 +9,10 @@
   <h1>
     cyclikal
   </h1>
+  <p>
+    Hi 👋 you found my personal Github profile.
+  </p>
 </div>
-
-
 
 <!--
 **cyclikal94/cyclikal94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
